@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Felipe Cley
 
 ## 👋 Olá! Bem-vindo(a) ao meu GitHub!
